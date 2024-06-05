@@ -83,7 +83,7 @@ I'm Somama Siddiqui, a passionate Computer Science & Mathematics student at St. 
 
 ### 💬 Ask me about
 - Web development with the MERN stack.
-- Tips and strategies for excelling in mathematics and computer science courses.
+- Tips and strategies for excelling in Generative AI and Machine Learning.
 
 ### 📫 How to reach me
 - **Email**: somamasiddiqui11@gmail.com
