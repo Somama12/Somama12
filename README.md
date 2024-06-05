@@ -89,7 +89,7 @@ I'm Somama Siddiqui, a passionate Computer Science & Mathematics student at St. 
 - **Email**: somamasiddiqui11@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/somama-siddiqui)
 - **GitHub**: [GitHub Profile](https://github.com/Somama12)
-- **Portfolio**: [Portfolio Link](https://your-portfolio-link.com)
+- **Portfolio**: [Portfolio Link](https://siddiqui.vercel.app)
 
 ### 😄 Pronouns
 - She/Her
