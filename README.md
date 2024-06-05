@@ -95,8 +95,7 @@ I'm Somama Siddiqui, a passionate Computer Science & Mathematics student at St. 
 - She/Her
 
 ### ⚡ Fun fact
-- I love participating in math challenges and have a keen interest in developing interactive web applications!
-
+- Fun fact is there is no fun fact about me.
 ---
 
 **Let's connect and create something amazing together!**
@@ -106,8 +105,7 @@ I'm Somama Siddiqui, a passionate Computer Science & Mathematics student at St. 
 - She/Her
 
 ### ⚡ Fun fact
-- I love participating in math challenges and have a keen interest in developing interactive web applications!
-
+- Fun fact is there is no fun fact about me.
 ---
 
 **Let's connect and create something amazing together!**
