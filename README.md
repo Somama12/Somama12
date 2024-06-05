@@ -8,9 +8,6 @@ I'm Somama Siddiqui, a passionate Computer Science & Mathematics student at St. 
 - 📍 Based in New York City.
 - 🏆 Awards: Presidential Scholar, Gold Honor in the International Youth Maths Challenge.
 
-### 🔭 I’m currently working on
-- **Student Assistant**: A web app employing OpenAI API to provide tailored academic and career assistance to students.
-- **TastyChronicles**: A recipe blogging web app using the MERN stack, enabling users to seamlessly Create, Read, Update, and Delete recipes.
 
 ### 💻 Skills
 - **Programming Languages**: Python, Java, JavaScript, HTML, CSS, Typescript
