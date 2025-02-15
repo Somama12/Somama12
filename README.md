@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm Somama Siddiqui, a passionate Computer Science & Mathematics student at St. Joseph’s University, New York. I'm dedicated to leveraging my skills in programming and problem-solving to contribute to innovative projects and collaborate with like-minded individuals. Welcome to my GitHub profile!
+I'm Somama Siddiqui, a passionate Computer Science at Fisk University, Nashville. I'm dedicated to leveraging my skills in programming and problem-solving to contribute to innovative projects and collaborate with like-minded individuals. Welcome to my GitHub profile!
 
 ### 🌱 About Me
 - 📚 I'm currently pursuing a Bachelors of Science in Computer Science & Mathematics with an expected graduation in May 2027.
-- 🎓 GPA: 4.0/4.0, Honors: Presidential Scholar, 2x Dean’s Honors List.
-- 📍 Based in New York City.
+- 🎓 GPA: 3.93/4.0, Honors: Presidential Scholar, 2x Dean’s Honors List.
+- 📍 Based in Nashville
 - 🏆 Awards: Presidential Scholar, Gold Honor in the International Youth Maths Challenge.
 
 
@@ -45,7 +45,7 @@ I'm Somama Siddiqui, a passionate Computer Science & Mathematics student at St. 
 - **Portfolio**: [Portfolio Link](https://siddiqui.vercel.app)
 
 ### 😄 Pronouns
-- She/Her
+- He/Him
 
 ### ⚡ Fun fact
 - Fun fact is there is no fun fact about me.
@@ -54,11 +54,3 @@ I'm Somama Siddiqui, a passionate Computer Science & Mathematics student at St. 
 **Let's connect and create something amazing together!**
 )
 
-### 😄 Pronouns
-- She/Her
-
-### ⚡ Fun fact
-- Fun fact is there is no fun fact about me.
----
-
-**Let's connect and create something amazing together!**
