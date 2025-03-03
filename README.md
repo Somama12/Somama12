@@ -3,7 +3,7 @@
 I'm Somama Siddiqui, a passionate Computer Science at Fisk University, Nashville. I'm dedicated to leveraging my skills in programming and problem-solving to contribute to innovative projects and collaborate with like-minded individuals. Welcome to my GitHub profile!
 
 ### 🌱 About Me
-- 📚 I'm currently pursuing a Bachelors of Science in Computer Science & Mathematics with an expected graduation in May 2027.
+- 📚 I'm currently pursuing a Bachelors of Science in Computer Science & Mathematics.
 - 🎓 GPA: 3.93/4.0, Honors: Presidential Scholar, 2x Dean’s Honors List.
 - 📍 Based in Nashville
 - 🏆 Awards: Presidential Scholar, Gold Honor in the International Youth Maths Challenge.
