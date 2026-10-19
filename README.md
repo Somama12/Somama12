@@ -1,56 +1,57 @@
-## Hi there 👋
+# Hi there 👋, I'm Somama Siddiqui
 
-I'm Somama Siddiqui, a passionate Computer Science at Fisk University, Nashville. I'm dedicated to leveraging my skills in programming and problem-solving to contribute to innovative projects and collaborate with like-minded individuals. Welcome to my GitHub profile!
+I'm a Computer Science student at **Fisk University**, passionate about building scalable systems, AI-powered developer tools, and software that solves real-world problems.
 
-### 🌱 About Me
-- 📚 I'm currently pursuing a Bachelors of Science in Computer Science & Mathematics.
-- 🎓 GPA: 3.93/4.0, Honors: Presidential Scholar, 2x Dean’s Honors List.
-- 📍 Based in Nashville
-- 🏆 Awards: Presidential Scholar, Gold Honor in the International Youth Maths Challenge.
+I've worked on developer productivity tools at Microsoft, conducted machine learning research on NASA-funded gravitational wave analysis, and built AI-driven applications. I enjoy exploring distributed systems, artificial intelligence, cloud computing, and open-source software.
+
+### 🚀 About Me
+
+- 🎓 **B.S. in Computer Science** at Fisk University — Expected December 2026
+- 💻 **Software Engineering Intern at Microsoft** — Azure Data
+- 🧠 Experience in AI-powered developer tools, distributed systems, and machine learning research
+- 🔬 Conducted NASA-funded machine learning research with Vanderbilt University and Fisk University
+- 🏆 Presidential Scholar, Dean's List, and VandyHacks Hackathon Winner
+- 🌍 Interested in building impactful software and contributing to open source
+
+### 💻 Tech Stack
+
+**Languages**
+- Python, Java, Go, C/C++, JavaScript, TypeScript, SQL
+
+**Frameworks & Libraries**
+- React, Next.js, Node.js, Express.js, Spring Boot, TensorFlow
+
+**Cloud & Technologies**
+- Microsoft Azure, AWS, Apache Spark (PySpark), MongoDB, Git
+
+**Areas of Interest**
+- Distributed Systems
+- Artificial Intelligence & Machine Learning
+- Cloud Computing
+- Developer Productivity & Tooling
+- Software Infrastructure
 
 
-### 💻 Skills
-- **Programming Languages**: Python, Java, JavaScript, HTML, CSS, Typescript
-- **Frameworks/Libraries**: Node.js, Express.js, React.js, Next.js
-- **Database**: MongoDB, SQL
+### 🏅 Experience & Recognition
 
-### 🌟 Projects
-- **Student Assistant – A Web App**
-  - Employed OpenAI API to offer advanced assistance to students throughout their academic journey.
-  - Provided tailored support, helping students with various aspects of their career and education.
-- **Halloween Killer Game – A Game using Java**
-  - Developed "Haunted Skies," a dynamic Java-powered arcade game with a Halloween theme.
-  - Designed a fast-paced gameplay experience, challenging players to achieve high scores in a spooky, time-restricted adventure.
-- **TastyChronicles – A Recipe Blogging Web App**
-  - Developed using Node.js, React.js, MongoDB, Mongoose, JavaScript, and Bootstrap.
-  - Enabled seamless CRUD operations for users to manage recipes.
-  - Fostered a community-driven platform for sharing and discovering recipes.
+- **Microsoft** — Software Engineering Intern
+- **Vanderbilt University × Fisk University** — Machine Learning Research Intern
+- **Google × Basta** — Code2Career Software Engineering Program
+- **Headstarter** — Software Engineering Fellow
+- Presidential Scholar at Fisk University
+- VandyHacks Hackathon Winner
 
-### 👯 I’m looking to collaborate on
-- Innovative projects in web development and AI.
-- Open-source contributions in areas related to my skills and interests.
+### 🤝 Let's Connect
 
-### 🤔 I’m looking for help with
-- Enhancing my skills in advanced web development techniques.
-- Exploring new frameworks and libraries to expand my tech stack.
+I'm always interested in connecting with fellow engineers, collaborating on meaningful projects, and exploring new ideas in software engineering and AI.
 
-### 💬 Ask me about
-- Web development with the MERN stack.
-- Tips and strategies for excelling in mathematics and computer science courses.
+- 📧 **Email:** [somamasiddiqui11@gmail.com](mailto:somamasiddiqui11@gmail.com)
+- 💼 **LinkedIn:** [somama-siddiqui](https://www.linkedin.com/in/somama-siddiqui)
+- 🧑‍💻 **GitHub:** [Somama12](https://github.com/Somama12)
+- 🌐 **Portfolio:** [siddiqui.vercel.app](https://siddiqui.vercel.app)
 
-### 📫 How to reach me
-- **Email**: somamasiddiqui11@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/somama-siddiqui)
-- **GitHub**: [GitHub Profile](https://github.com/Somama12)
-- **Portfolio**: [Portfolio Link](https://siddiqui.vercel.app)
+**Pronouns:** He/Him
 
-### 😄 Pronouns
-- He/Him
-
-### ⚡ Fun fact
-- Fun fact is there is no fun fact about me.
 ---
 
-**Let's connect and create something amazing together!**
-)
-
+*Building, learning, and shipping — one project at a time.* 🚀
