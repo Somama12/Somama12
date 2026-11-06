@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Somama Siddiqui
+# Hi there 👋, I'm Sahil Siddiqui
 
 I'm a Computer Science student at **Fisk University**, passionate about building scalable systems, AI-powered developer tools, and software that solves real-world problems.
 
